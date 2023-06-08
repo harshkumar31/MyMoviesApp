@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+sanic = "22.12.0"
+black = "23.1.0"
+tortoise-orm = "*"
+asyncpg = "*"
+bcrypt = "*"
+aiohttp = "*"
+pydantic = "*"
+python-dotenv = "*"
+aioredis = "==2.0.1"
+sanic-jwt-extended = "1.0.dev.12"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
+python_full_version = "3.9.16"
+
+[pipenv]
+allow_prereleases = true
