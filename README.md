@@ -1,9 +1,5 @@
 # MyMoviesApp
 
-
-Overview
-This is a document to scope out requirement for minor project 2 to be used in python/ruby bootcamps. A backend app(APIs only) will be required to built by the intern which will make use of basic language and web framework concepts. This document lists out the problem statement, functional and non functional requirements
-
 Problem
 Create a backend service for searching and wishlisting movies. A user can login into the application, can search for movies and then add the movies to following lists:
 
