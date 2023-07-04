@@ -1,6 +1,6 @@
 # MyMoviesApp
 
-Problem 
+Problem
 Create a backend service for searching and wishlisting movies. A user can login into the application, can search for movies and then add the movies to following lists:
 
 Watched
